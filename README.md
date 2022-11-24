@@ -1,6 +1,6 @@
 > Pelajari dengan menggunakan berbagai bahasa & lokasi [#23](https://github.com/anmol098/waka-readme-stats/issues/23)
 
-# Metricas de Desenvolvimento no Readme com feature flags adicionáveis ​​🎌
+# WELCOME TO GIT FOREX ID 
 
 ![Pratinjau Proyek](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
@@ -254,116 +254,11 @@ Contributed são bem vidas! ♥! Silakan bagikan fungsi apa pun dan tambahkan pe
 
 # Kontributor Selecionados
 
-1. [Anmol Pratap Singh](https://github.com/anmol098): Mantenedor
-2. [Prabhat Singh](https://github.com/prabhatdev): Pelo gráfico de linha do tempo de código [#18](https://github.com/anmol098/waka-readme-stats/pull/18 )
-3. [Hedy Li](https://github.com/hedythedev): Pelo Pull Request [#34](https://github.com/anmol098/waka-readme-stats/pull/34) e [#23 ](https://github.com/anmol098/waka-readme-stats/pull/23)
-4. [Pedro Torres](https://github.com/Corfucinas): Permintaan Tarik Pelo [#29](https://github.com/anmol098/waka-readme-stats/pull/29)
-5. [Aaron Meese](https://github.com/ajmeese7): Pelo Pull Request [#45](https://github.com/anmol098/waka-readme-stats/pull/45)
-6. [Arnav Jindal](https://github.com/Daggy1234): Pelo Pull Request [#48](https://github.com/anmol098/waka-readme-stats/pull/48)
-7. [Daniel Rowe](https://github.com/DanRowe): Pelo Pull Request [#57](https://github.com/anmol098/waka-readme-stats/pull/57)
-8. [Ss5h](https://github.com/tlatkdgus1): Untuk tambahan dukungan eskrita de frase alami untuk tradução [#136](https://github.com/anmol098/waka-readme-stats/pull/ 136)
-
 <detail>
 <summary>Menção especial for aqueles que estão deixando seus readmes more incríveis :smile: :tada:</summary>
 
-  - [Stanislas](https://github.com/angristan)
   
-  - [Pratik Kumar](https://github.com/pr2tik1)
   
-  - [Vladimir](https://github.com/sergeev-vn)
-
-  - [Pedro Torres](https://github.com/Corfucinas)
-  
-  - [leverglowh](https://github.com/leverglowh)
-  
-  - [patdc](https://github.com/patdc)
-  
-  - [极客挖掘机](https://github.com/meteor1993)
-  
-  - [Fan()](https://github.com/Fanduzi)
-  
-  - [Miller Camilo Vega](https://github.com/minoveaz)
-  
-  - [XLor](https://github.com/yjl9903)
-  
-  - [Jesse Okeya](https://github.com/jesseokeya)
-  
-  - [aniel](https://github.com/anaiel)
-  
-  - [Dipto Mondal](https://github.com/diptomondal007)
-  
-  - [Jerry F. Zhang](https://github.com/JerryFZhang)
-  
-  - [Karan Singh](https://github.com/karan06126)
-  
-  - [Erwin Lejeune](https://github.com/guilyx)
-  
-  - [Manuel Cepeda](https://github.com/mecm1993)
-  
-  - [Jonathan S](https://github.com/TGTGamer)
-  
-  - [Tsotne Gvadzabia](https://github.com/RockiRider)
-  
-  - [Miray](https://github.com/MirayXS)
-  
-  - [Varad Patil](https://github.com/varadp2000)
-  
-  - [Prabhat Singh](https://github.com/prabhatdev)
-  
-  - [Nikhil](https://github.com/nikhilgorantla)
-  
-  - [大白](https://github.com/2720851545)
-  
-  - [Du Yizhuo](https://github.com/dyzdyz010)
-  
-  - [Manas Talukdar](https://github.com/manastalukdar)
-  
-  - [Simranjeet Singh](https://github.com/smrnjeet222)
-  
-  - [Aaron Meese](https://github.com/ajmeese7)
-  
-  - [Prasad Narkhede](https://github.com/p014ri5)
-  
-  - [Manish Kushwaha](https://github.com/tzmanish)
-  
-  - [Hedy Li](https://github.com/hedythedev)
-  
-  - [SHIMIZU Taku](https://github.com/takuan-osho)
-  
-  - [Jude Wilson](https://github.com/mr-winson)
-  
-  - [Daniel Rowe](https://github.com/DanRowe)
-  
-  - [Muhammad Hassan Ahmed](https://github.com/hassan11196)
-  
-  - [Alessandro Maggio](https://github.com/Tkd-Alex)
-  
-  - [Siddharth Gupta](https://github.com/siddg97)
-  
-  - [Dev-Mehta](https://github.com/Dev-Mehta/)
-  
-  - [> EdgyCoder ✌](https://github.com/edgycoder)
-  
-  - [> EdgyCoder ✌](https://github.com/edgycoder)
-  
-  - [Korel Kashri](https://github.com/korelkashri)
-  
-  - [Gustavo Barbosa](https://github.com/gusbdev)
-
-  - [eagleanurag](https://github.com/eagleanurag)
-  
-  - [Aravind V. Nair](https://github.com/aravindvnair99)
-  
-  - [Raman Preet Singh](https://github.com/raman08)
-  
-  - [Hayat Tamboli](https://github.com/hayat-tamboli)
-  
-  - [Henry Boisdequin](https://github.com/henryboisdequin)
-   
-  - [Raman Preet Singh](https://github.com/raman08)
-
-  
-
 </detail>
 
 - Kamu! Caso esteja usando isso agora e seu nome não esteja na lista, por favor contacte-nos envirando um [Menção Especial](https://github.com/anmol098/waka-readme-stats/issues/new/choose) issue :blush : Tidak ada ficaremos gratis untuk menambahkan daftar Anda.
