@@ -1,4 +1,4 @@
-> Pelajari dengan menggunakan berbagai bahasa & lokasi [#23](https://github.com/anmol098/waka-readme-stats/issues/23)
+](https://github.com/anmol098/waka-readme-stats/issues/23)
 
 # WELCOME TO GIT FOREX ID 
 
